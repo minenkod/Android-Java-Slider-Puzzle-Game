@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/txtFilter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.07"
+        android:text="Drag To Filter" />
+
+    <SeekBar
+        android:id="@+id/seekbr"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.15"
+        android:max="5"
+        android:paddingTop="10dp"
+        android:paddingBottom="5dp"
+        />
+
+    <CheckBox
+        android:id="@+id/chkGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.15"
+        android:text="@string/start_as_new_game" />
+
+    <ListView
+        android:id="@+id/lstpuzzle"
+        android:layout_width="match_parent"
+        android:layout_height="237dp"
+            android:layout_weight="0.86" />
+
+
+</LinearLayout>
+
+
+

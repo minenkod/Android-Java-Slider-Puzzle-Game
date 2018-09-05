@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACW</string>
+    <string name="menu_settings">настройки</string>
+    <string name="title_activity_main">Основная деятельность</string>
+    <string name="txtOnlinePuzzle">Пазлы онлайн</string>
+    <string name="toastDownFinish">Скачать Головоломка</string>
+    <string name="toastDownStart">загрузка....</string>
+    <string name="toastWinner">Ты победил!</string>
+    <string name="toastWinner2">Победитель: </string>
+    <string name="toastRecord">Новая запись!</string>
+    <string name="toastNoRecord">Запись не достигнута.</string>
+    <string name="offlineMode">-Автономный режим-</string>
+    <string name="toastWon">Выиграл-</string>
+    <string name="toastMoves"> Ходы </string>
+    <string name="toastMoves2"> Ходы: </string>
+    <string name="toastFilter">  Набор фильтров !</string>
+    <string name="lstHighScore">Рекорд: </string>
+    <string name="toastSeconds">  секунд</string>
+    <string name="start_as_new_game">Начать новую игру</string>
+    <string name="high_score">Рекорд</string>
+    <string name="puzzle_selection">Выбор головоломки</string>
+    <string name="dtf">Перетащить в фильтр</string>
+    <string name="tbt">Фильтр: три на три</string>
+    <string name="tbf">Фильтр: три на четыре</string>
+    <string name="fbt">Фильтр: четыре на три</string>
+    <string name="hs"> Фильтр: высокий балл </string>
+    <string name="fbf">Фильтр: четыре на четыре</string>
+</resources>

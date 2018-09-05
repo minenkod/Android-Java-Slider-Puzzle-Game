@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ACW</string>
+<string name="menu_settings">Settings</string>
+<string name="title_activity_main">MainActivity</string>
+<string name="txtOnlinePuzzle">Online Puzzles</string>
+    <string name="toastDownFinish">Puzzle Downloaded</string>
+    <string name="toastDownStart">Downloading....</string>
+    <string name="toastWinner">You won!</string>
+    <string name="toastWinner2">Winner in: </string>
+    <string name="toastRecord">New Record!</string>
+    <string name="toastNoRecord">Record Not Reached.</string>
+    <string name="offlineMode">-Offline Mode-</string>
+    <string name="toastWon">Won in-</string>
+    <string name="toastMoves"> Moves </string>
+    <string name="toastMoves2"> Moves: </string>
+    <string name="toastFilter">  Filter Set !</string>
+    <string name="lstHighScore">High Score: </string>
+    <string name="toastSeconds">  Seconds</string>
+    <string name="start_as_new_game">Start As New Game</string>
+    <string name="high_score">High Score</string>
+    <string name="puzzle_selection">Puzzle Selection</string>
+    <string name="dtf">Drag To Filter</string>
+    <string name="tbt">Filter: Three By Three</string>
+    <string name="tbf">Filter: Three By Four</string>
+    <string name="fbt">Filter: Four By Three</string>
+    <string name="hs">Filter: High Score</string>
+    <string name="fbf">Filter: Four By Four</string>
+
+</resources>
